@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\PhysicsBasics\PhysicsBasics\bin\Debug\PhysicsBasics.exe.config
+C:\Users\User\source\repos\PhysicsBasics\PhysicsBasics\bin\Debug\PhysicsBasics.exe
+C:\Users\User\source\repos\PhysicsBasics\PhysicsBasics\bin\Debug\PhysicsBasics.pdb
+C:\Users\User\source\repos\PhysicsBasics\PhysicsBasics\obj\Debug\PhysicsBasics.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PhysicsBasics\PhysicsBasics\obj\Debug\PhysicsBasics.Properties.Resources.resources
+C:\Users\User\source\repos\PhysicsBasics\PhysicsBasics\obj\Debug\PhysicsBasics.TestRoGV.resources
+C:\Users\User\source\repos\PhysicsBasics\PhysicsBasics\obj\Debug\PhysicsBasics.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PhysicsBasics\PhysicsBasics\obj\Debug\PhysicsBasics.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PhysicsBasics\PhysicsBasics\obj\Debug\PhysicsBasics.exe
+C:\Users\User\source\repos\PhysicsBasics\PhysicsBasics\obj\Debug\PhysicsBasics.pdb
+C:\Users\User\source\repos\PhysicsBasics\PhysicsBasics\obj\Debug\PhysicsBasics.FormTest.resources
+C:\Users\User\source\repos\PhysicsBasics\PhysicsBasics\obj\Debug\PhysicsBasics.TestMG.resources
